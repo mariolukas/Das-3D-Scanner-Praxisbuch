@@ -5,3 +5,7 @@
  Download zur Verfügung.
 
  https://calib.io/pages/camera-calibration-pattern-generator
+
+ Eine Sammlung von fertigen Mustern in allen Größen findet man hier: 
+
+ https://markhedleyjones.com/projects/calibration-checkerboard-collection
